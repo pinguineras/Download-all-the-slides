@@ -1,0 +1,72 @@
+* {
+    margin:0px;
+    padding:0px;
+}
+
+#geral {
+    width:1000px;
+    margin:0 auto;
+    font-family: Georgia;
+    font-style: italic;
+    font-weight:bold;
+}
+
+h1 a {
+    
+    font-size:60px;
+    text-decoration:none;
+    color:#990000;
+    text-shadow:0px 1px 0px #000;
+    display:block;
+    margin:10px auto 0 auto;
+    padding-top:60px;
+    padding-left:50px;
+    padding-bottom:30px;
+    background:url("xallthey.jpg") no-repeat 740px -30px;
+}
+
+#form {
+    border:1px solid #ffcc00;
+    width:80%;
+    padding:30px;
+    margin:0 auto;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+    background-color:#ffdd00;
+}
+
+#form input {
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+}
+
+#form #enviar {
+    width:100px;
+    height:40px;
+    background-color:#900;
+    color:#fff;
+}
+
+#form #url {
+    height:30px;
+    width:550px;
+    padding:5px;
+    margin-left:30px;
+    border:1px solid #ccc;
+}
+
+.texto1 {
+    font-size:1.2em;
+}
+.texto2 {
+    font-size:0.9em;
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom:15px;
+}
+
+.aguarde {
+    text-align:center;
+    padding:30px;
+    display:none;
+}
